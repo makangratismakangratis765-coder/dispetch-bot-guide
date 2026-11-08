@@ -1,0 +1,6 @@
+# DISPETCH Bot Guide
+> Panduan bikin bot untuk aplikasi DISPETCH (messenger bergaya Telegram, API mirip node-telegram-bot-api).
+
+- [AI_GUIDE.md](https://raw.githubusercontent.com/makangratismakangratis765-coder/dispetch-bot-guide/main/AI_GUIDE.md): aturan + template
+- [README.md](https://raw.githubusercontent.com/makangratismakangratis765-coder/dispetch-bot-guide/main/README.md): detail lengkap
+- [bot-utility.js](https://raw.githubusercontent.com/makangratismakangratis765-coder/dispetch-bot-guide/main/bot-utility.js): contoh bot
